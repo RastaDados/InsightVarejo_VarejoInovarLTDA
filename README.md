@@ -1,0 +1,1 @@
+# InsightVarejo_VarejoInovarLTDA
