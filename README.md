@@ -65,18 +65,18 @@ Este relatório apresenta uma análise completa do projeto de Análise de Vendas
 
 ### 🔗 Links
 
-- Dashboard do Power BI: Acesse
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiN2I5Yzc1NjQtNjZjOC00ODRiLWExOTYtOGFkMWZiMDhhMmZkIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-- Análise em SQL: Acesse
+- Análise em SQL: <a href="https://github.com/RastaDados/InsightVarejo_VarejoInovarLTDA/blob/main/An%C3%A1lise%20SQL%20-%20Data%20Warehouse.md">Acesse</a>
 
-- Apresentação (Business Analysis): Acesse
+- Apresentação (Business Analysis): <a href="https://github.com/RastaDados/InsightVarejo_VarejoInovarLTDA/blob/main/An%C3%A1lise%20de%20Mercado.md">Acesse</a>
 
-- Dashboards e Códigos Utilizados neste Projeto: Acesse
+- Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/InsightVarejo_VarejoInovarLTDA/tree/main/Arquivos%20Jupyer%20Notebook">Acesse</a>
 
-- Querys (SQL): Acesse
+- Querys (SQL): <a href="https://github.com/RastaDados/InsightVarejo_VarejoInovarLTDA/tree/main/Querys">Acesse</a>
 
 <hr>
 
 ### ✍️ Autor
 
-- Mateus França - LinkedIn
+- Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">LinkedIn</a>
