@@ -319,4 +319,5 @@ df_margem_categoria = run_query(query_margem_categoria)
 print(df_margem_categoria)
 ```
 
-![Uploading image.png…]()
+<img width="274" height="178" alt="image" src="https://github.com/user-attachments/assets/cdee98ab-d33f-4216-b5d8-b58c024bb067" />
+
